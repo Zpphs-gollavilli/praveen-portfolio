@@ -20,7 +20,7 @@ const About = () => (
           className={style.link}
           rel="noreferrer"
         >
-          Guttula Praveen Srim (Chinna),
+          Guttula Praveen Sriram (Chinna),
         </a>
         {' '}
         a passionate software engineer specializing in React and MERN. I thrive on delivering state-of-the-art software solutions. When I&apos;m not coding, you&apos;ll find me exploring the fascinating worlds of Math, Movies, and Music.
